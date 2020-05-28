@@ -52,6 +52,9 @@ that are useful in a pin cab environment:
   can control the volume level on both at the same time with the
   one set of buttons.  You can choose which sound cards are
   included in the volume controls.
+  
+- SSF 7.1 channel support with EQAPO: Control independant back glass,
+  rear and front speakers in a 7.1 configuration on a per-table basis.
 
 - PinballY integration: PinballY sends PinVol information on the
   title of each game it launches, which lets PinVol display the
