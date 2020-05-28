@@ -60,3 +60,9 @@ that are useful in a pin cab environment:
   title of each game it launches, which lets PinVol display the
   friendly game title instead of just the filename.
 
+SSF Installation Instructions:
+
+SSF volume/gain control is only enabled if EQ APO is installed and configured.
+Once APO is setup, add the following line to the end of APO's config.txt file:
+
+   Include: PinVolSSF.txt
